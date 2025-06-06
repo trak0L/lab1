@@ -1,0 +1,20 @@
+version: '3.9'
+services:
+  web:
+    image:
+    working_dir:
+    depends_on:
+      -
+    ports:
+      -
+    volumes:
+      -
+    command:
+  db:
+    image:
+    env_file:
+    expose:
+      -
+    volumes:
+      -
+volumes:
